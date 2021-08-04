@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 16">
+  <path d="M229.62,252a.38.38,0,0,0,.38-.38v-1.24a.38.38,0,0,0-.38-.38H229v-1.5a1.5,1.5,0,0,0-1.5-1.5h-10a1.5,1.5,0,0,0-1.5,1.5v13a1.5,1.5,0,0,0,1.5,1.5h10a1.5,1.5,0,0,0,1.5-1.5h0V260h.62a.38.38,0,0,0,.38-.38v-1.24a.38.38,0,0,0-.38-.38H229v-2h.62a.38.38,0,0,0,.38-.38v-1.24a.38.38,0,0,0-.38-.38H229v-2Z" transform="translate(-216 -247)" fill="currentColor"/>
+  <rect x="3" y="3.5" width="7" height="1" rx="0.2" fill="#fcfcfc"/>
+  <rect x="3" y="6.5" width="7" height="1" rx="0.2" fill="#fcfcfc"/>
+  <rect x="3" y="9.5" width="7" height="1" rx="0.2" fill="#fcfcfc"/>
+</svg>
